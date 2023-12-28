@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OgubwvTUS6ickANbG4zZ+l5NaqBa7lC7JhxTXkQ0ADrb0vzdB3/6rTuY+NWoYxrmnR7DZEblI4pR0jcsrkcz9g==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\ABC\\a_b_c\\a_b_c.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alan\\.nuget\\packages\\winforms.datavisualization\\1.8.0\\winforms.datavisualization.1.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
